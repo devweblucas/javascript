@@ -1,0 +1,77 @@
+ANOTAÇÕES JAVA SCRIPT
+
+
+LÓGICA DA PROGRAMAÇÃO
+
+Aula 1
+
+CONSOLES E ALERTAS
+
+console.log('Olá mundo'); : Serve para mostrar uma mensagem no console
+
+
+"Use o console para testar seu código sem o seu usuário ver"
+
+
+window.alert(""); : Serve para o windows dar um alerta no seu html
+
+
+"Para fazer testes use o console"
+
+
+
+Aula 2
+
+VARIÁVEIS E CONSTANTES
+
+
+"Para se declarar uma variável no javascript, você pode usar:"
+
+var = variável global
+let = variável do escopo
+const = constante
+
+
+Curiosidades que percebi:
+
+"No script a var tem que vir em cima de todos os comandos"
+
+"Na var eu posso aletara-lá digitando a varíavel com outro valor, mas com mesmo nome é claro"
+
+Para usar let(variável de escopo)
+
+
+Dentro do script abra chaves {}
+
+E a let só pode ser usadada dentro do escopo{}
+
+E por fim e não menos importante
+
+const é uma varíavel que não se pode alterar o seu valor colocando uma const posterior, isso só é possível com var
+
+para aletar o seu valor tem que ir na const onde está o valor e não escrever uma nova const
+
+Para adicionar variáveis e nomes precisa se colocar o +++++++++ antes da variável
+
+"Também pode se usar variáveis dentro de variávies"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
