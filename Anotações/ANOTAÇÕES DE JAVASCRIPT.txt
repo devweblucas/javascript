@@ -60,6 +60,27 @@ Para adicionar variáveis e nomes precisa se colocar o +++++++++ antes da variá
 
 
 
+Aula 3
+
+ARRAYS
+
+
+arrays são uma variável para armazenar mútiplos valores
+
+para usar vários valores dentro das variáveis use [] e para chamar um valor específico use índice[] com o índice da variável
+
+outra forma de chegar no mesmo resultado:
+
+var nomes = new Array('x', 'y');
+
+
+Posso alterar nomes também
+
+
+
+
+
+
 
 
 
