@@ -56,10 +56,6 @@ Para adicionar variáveis e nomes precisa se colocar o +++++++++ antes da variá
 "Também pode se usar variáveis dentro de variávies"
 
 
-
-
-
-
 Aula 3
 
 ARRAYS
@@ -77,9 +73,47 @@ var nomes = new Array('x', 'y');
 Posso alterar nomes também
 
 
+Aula 4
+
+Condições
+
+"No javascript o igual é representado por=="
+
+if == se
 
 
+<script>
+       var nome = "Lucaas"
+       if(nome == "Lucas"){
+            console.log('Verdadeiro');
+       }
+       else{
+            console.log('Falso')
+       }
+</script>
 
+
+else if == Signifíca "se não se"; é como se fosse uma segunda condição
+
+else == Quando é falso.
+
+
+Existem outros símbolos de comparações como:
+
+== Igual
+> Maior que?
+< Menor que?
+=> Maior igual que?
+<= Menor igual que?
+
+Existem também outro símbolo que é o diferente de:
+
+!=
+
+
+&& == Significa 'E'
+
+|| == Significa 'OU'
 
 
 
