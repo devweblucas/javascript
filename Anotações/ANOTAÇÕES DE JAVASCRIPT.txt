@@ -18,6 +18,12 @@ window.alert(""); : Serve para o windows dar um alerta no seu html
 
 "Para fazer testes use o console"
 
+window.confirm(); Serve para confirmar algo
+
+window.prompt(); Serve para o usuário digitar coisas
+
+null = Significa que é nulo, que não possui nada dentro
+
 
 
 Aula 2
@@ -159,6 +165,15 @@ chame a função pelo o nome da variável
 (function(){
             console.log("Olá Mundo !");
 })();
+
+
+Aula 7
+
+var func = function(){
+            window.alert('Olá Mundo!');
+        }
+
+        func();
 
 
 
