@@ -110,11 +110,55 @@ Existem também outro símbolo que é o diferente de:
 
 !=
 
-
 && == Significa 'E'
 
 || == Significa 'OU'
 
+
+Aula 5
+
+FUNÇÕES PARTE 1
+
+
+As funções só são executadas, quando à chamamos.
+
+Para colocar uma função no script use
+
+function nome da função () {
+}
+
+Para chamar uma função use:
+
+NomeDaFunção();
+
+
+Os parâmetros são usados na funções para tornar mais funcional, pra isso basta preencher os parÊnteses.
+
+return: Serve para retornar um valor da função
+
+"Quando a função retorna, ela finaliza a execução"
+
+
+Aula 6
+
+FUNÇÕES PARTE 2
+
+Outras maneiras declaras funções:
+
+var func = function(){
+            alert('Oi');
+        }
+
+func();
+
+
+chame a função pelo o nome da variável
+
+
+
+(function(){
+            console.log("Olá Mundo !");
+})();
 
 
 
