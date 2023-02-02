@@ -171,9 +171,34 @@ Aula 7
 
 var func = function(){
             window.alert('Olá Mundo!');
-        }
+}
+func();
 
-        func();
+
+Aula 8
+
+Sistema de repetições: While, For e Do
+
+While == Enquanto.
+
+while(n < 10){
+            console.log(n);
+
+            n++;
+}
+
+For == Para. Nele você coloca todas as suas condições dentro dos parênteses
+
+for(var i = 0; i < 10;   i++){
+            console.log(i);
+}
+
+Do == Executa uma ação antes de verificar.
+
+
+Aula 9
+
+ForEach
 
 
 
